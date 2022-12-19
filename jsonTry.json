@@ -1,0 +1,20 @@
+{
+  "companies": [
+    {
+      "name": "inVRsion",
+      "users": [
+        "Lori",
+        "Marco"        
+      ]
+    },
+    {
+      "name": "Twinbru",
+      "users": [
+        "John",
+        "Olga",
+        "Nathan",
+        "Mattia"
+      ]
+    }
+  ]
+}
