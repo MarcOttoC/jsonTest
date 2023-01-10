@@ -1,0 +1,89 @@
+{
+  "companies": [
+    {
+      "name": "inVRsion",
+      "users": [
+        {
+        "person":"Lori",
+          "collections": [
+            {
+              "title":"Winter Fabrics",
+                          "image":"https://it.habcdn.com/photos/project/gallery/b-993561.jpg"
+            },
+            {
+              "title":"Summer Collection",
+              "image":"https://www.vecaetagere.com/5000-home_default/top-cucina.jpg"
+            }
+          ]
+        },
+        {
+        "person":"Marco",
+          "collections": [
+             {
+              "title":"Prova Collection",
+                          "image":"https://i.ebayimg.com/images/g/Tp8AAOSwh1RhH6bI/s-l400.jpg"
+            },
+            {
+              "title":"Sticazzi Collection",
+              "image":"https://giordanonelmondo.com/20835-home_default/arredamento-parrucchiere-completo-in-offerta-ceriotti.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Twinbru",
+      "users": [
+               {
+        "person":"John",
+          "collections": [
+            {
+              "title":"Winter Fabrics",
+                          "image":"https://it.habcdn.com/photos/project/gallery/b-993561.jpg"
+            },
+            {
+              "title":"Summer Collection",
+              "image":"https://www.vecaetagere.com/5000-home_default/top-cucina.jpg"
+            }
+          ]
+        },
+        {
+        "person":"Olga",
+          "collections": [
+             {
+              "title":"Random Collection",
+                          "image":"https://i.ebayimg.com/images/g/ea8AAOSwcgxhGleI/s-l400.jpg"
+            },
+            {
+              "title":"Yolo Collection",
+              "image":"https://www.vecaetagere.com/5000-home_default/top-cucina.jpg"
+            }
+          ]
+        },
+        {
+          "person":"Nathan",
+          "collections": [
+             {
+              "title":"Last Collection",
+              "image":"https://arrecasa.it/wp-content/uploads/2016/09/arredamento-minimal-copertina-400x400.jpg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "vectorlab",
+      "users": [
+        {
+        "person":"Andrea",
+        "collections": [
+             {
+              "title":"Ultimate Collection",
+              "image":"https://www.polideas.it/wp-content/uploads/2018/10/Arredamento-Scandinavo-Salotto-01-400x400.jpg"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
