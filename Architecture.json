@@ -10,7 +10,7 @@
     	  "Object Editable" : [   
             {"ActorWithUI0": "MI_ExampleSKU001"},
             {"ActorWithUI1": "01_-_Default"},
-            {"ActorWithUI2": "MI_ExampleSKU003"},
+            {"ActorWithUI2": "NewMaterialInstanceConstant1"},
             {"ActorWithUI3": "MI_ExampleSKU004"},
             {"ActorWithUI4": "MI_ExampleSKU005"},
             {"ActorWithUI5": "MI_ExampleSKU006"}
