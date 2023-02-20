@@ -8,30 +8,30 @@
         {
           "Map Name" : "Fabric Showroom",
     	  "Object Editable" : [   
-            {"ActorWithUI": "MI_ExampleSKU001"},
-            {"ActorWithUI2": "01_-_Default"},
-            {"ActorWithUI3": "MI_ExampleSKU003"},
-            {"ActorWithUI4": "MI_ExampleSKU004"},
-            {"ActorWithUI5": "MI_ExampleSKU005"},
-            {"ActorWithUI6": "MI_ExampleSKU006"}
+            {"ActorWithUI0": "MI_ExampleSKU001"},
+            {"ActorWithUI1": "01_-_Default"},
+            {"ActorWithUI2": "MI_ExampleSKU003"},
+            {"ActorWithUI3": "MI_ExampleSKU004"},
+            {"ActorWithUI4": "MI_ExampleSKU005"},
+            {"ActorWithUI5": "MI_ExampleSKU006"}
           ]          
         },
         {
           "Map Name" : "Poolside",
           "Object Editable" : [
-              {"Interactive Asset1": "SKU1"},
-              {"Interactive Asset2": "SKU2"},
-              {"Interactive Asset3": "SKU3"},
-              {"Interactive Asset4": "SKU4"}
+              {"Interactive Asset0": "SKU1"},
+              {"Interactive Asset1": "SKU2"},
+              {"Interactive Asset2": "SKU3"},
+              {"Interactive Asset3": "SKU4"}
           ]
         },
         {
           "Map Name" : "Product Void",
           "Object Editable" : [
-              {"Interactive Asset1": "SKU1"},
-              {"Interactive Asset2": "SKU2"},
-              {"Interactive Asset3": "SKU3"},
-              {"Interactive Asset4": "SKU4"}
+              {"Interactive Asset0": "SKU1"},
+              {"Interactive Asset1": "SKU2"},
+              {"Interactive Asset2": "SKU3"},
+              {"Interactive Asset3": "SKU4"}
           ]
         }
       ]
